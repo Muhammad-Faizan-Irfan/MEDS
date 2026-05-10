@@ -1,0 +1,20 @@
+# Build artifacts
+build/
+*.o
+*.d
+# Simulation outputs
+*.vcd
+*.fsdb
+*.vpd
+simv
+simv.daidir/
+csrc/
+# Editor and OS files
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+# Tool-generated
+*.log
+!important.log
+# Exception: track this specific log
