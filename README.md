@@ -4,7 +4,8 @@ This Folder Contain information and meterial of my meds training program summer 
 ```
 MEDS
 ├── Meds_Training
-│   └── Onurs_Mutlu_Lecture
-│       └── Lecture_1.md
+│   └── Onurs_Mutlu_Lecture
+│       ├── Lecture_1.md
+│       └── Lecture_2.md
 └── README.md
 ```
